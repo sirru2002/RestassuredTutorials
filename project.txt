@@ -1,1 +1,2 @@
-First Entry in the project
+First entry
+Second entry
