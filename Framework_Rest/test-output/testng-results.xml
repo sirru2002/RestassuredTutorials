@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2779" started-at="2018-10-13T13:07:59Z" finished-at="2018-10-13T13:08:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2779" started-at="2018-10-13T13:07:59Z" finished-at="2018-10-13T13:08:02Z">
+      <class name="com.reatilapp.tests.AddProduct">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.reatilapp.tests.AddProduct@53b32d7]" name="init" is-config="true" duration-ms="920" started-at="2018-10-13T18:37:59Z" finished-at="2018-10-13T18:38:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="before()[pri:0, instance:com.reatilapp.tests.AddProduct@53b32d7]" name="before" is-config="true" duration-ms="121" started-at="2018-10-13T18:38:00Z" finished-at="2018-10-13T18:38:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="addprod()[pri:0, instance:com.reatilapp.tests.AddProduct@53b32d7]" name="addprod" duration-ms="1456" started-at="2018-10-13T18:38:00Z" finished-at="2018-10-13T18:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addprod -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.reatilapp.tests.AddProduct@53b32d7]" name="after" is-config="true" duration-ms="263" started-at="2018-10-13T18:38:02Z" finished-at="2018-10-13T18:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- com.reatilapp.tests.AddProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
